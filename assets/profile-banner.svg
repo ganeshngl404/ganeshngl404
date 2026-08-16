@@ -1,0 +1,46 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ganesh Kumar SOC Analyst Portfolio</title>
+  <desc id="desc">A professional blue-team cybersecurity banner with SOC dashboard style graphics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#082F49"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="360" rx="34" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <path d="M0 72H1400M0 144H1400M0 216H1400M0 288H1400" stroke="#67E8F9"/>
+    <path d="M140 0V360M280 0V360M420 0V360M560 0V360M700 0V360M840 0V360M980 0V360M1120 0V360M1260 0V360" stroke="#67E8F9"/>
+  </g>
+  <circle cx="1130" cy="142" r="90" stroke="url(#cyan)" stroke-width="2" opacity="0.9"/>
+  <circle cx="1130" cy="142" r="54" stroke="#0EA5E9" stroke-width="2" opacity="0.8"/>
+  <circle cx="1130" cy="142" r="18" fill="#22D3EE" filter="url(#glow)"/>
+  <path d="M1130 52V232M1040 142H1220M1065 80L1195 204M1195 80L1065 204" stroke="#BAE6FD" stroke-width="2" opacity="0.55"/>
+  <g filter="url(#glow)">
+    <path d="M124 248C210 180 250 208 326 132C390 68 498 93 554 134C626 188 696 145 772 92" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+    <path d="M126 288C212 226 300 250 368 198C448 138 536 188 596 221C690 273 760 220 838 178" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" opacity="0.78"/>
+  </g>
+  <rect x="78" y="62" width="710" height="230" rx="26" fill="#020617" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.45"/>
+  <text x="112" y="122" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">GANESH KUMAR</text>
+  <text x="114" y="166" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">SOC Analyst • SIEM • Incident Response</text>
+  <text x="114" y="209" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Splunk investigations, detection engineering,</text>
+  <text x="114" y="241" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Windows threat hunting, phishing triage, and SOC reporting.</text>
+  <g>
+    <rect x="904" y="238" width="350" height="54" rx="14" fill="#020617" fill-opacity="0.68" stroke="#22D3EE" stroke-opacity="0.45"/>
+    <circle cx="932" cy="265" r="7" fill="#22C55E"/>
+    <text x="952" y="273" fill="#E0F2FE" font-family="Consolas, monospace" font-size="19">portfolio status: proof-of-work</text>
+  </g>
+</svg>
+
