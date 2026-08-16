@@ -30,6 +30,15 @@ These can make the portfolio even stronger after careful sanitization:
 4. Windows Event Viewer screenshots from a lab VM.
 5. A short `demo.md` walkthrough for each repository.
 
+## Authentic Commit Policy
+
+The repositories should show real improvements over time:
+
+- Use clear commit messages that describe actual changes.
+- Do not backdate commits.
+- Do not claim production experience when the work is a lab.
+- Keep roadmaps and open issues honest so reviewers can see what is finished and what is planned.
+
 ## What To Avoid Publishing
 
 - Real credentials or `.env` files.
@@ -37,4 +46,3 @@ These can make the portfolio even stronger after careful sanitization:
 - Full VM exports.
 - Unredacted screenshots showing usernames, hostnames, or private directories.
 - Any exploit code pointed at real third-party systems.
-

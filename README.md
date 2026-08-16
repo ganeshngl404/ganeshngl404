@@ -85,6 +85,10 @@ I keep this profile honest and recruiter-safe:
 
 See the detailed portfolio map: [Evidence Map](./docs/evidence-map.md)
 
+## What I Am Improving Next
+
+I am actively adding sanitized screenshots, walkthrough notes, and small validation scripts. I will not backdate commits or publish fake proof. The goal is a portfolio that feels strong because it is explainable, safe, and real.
+
 ---
 
 ## Interview Talking Points
@@ -105,4 +109,3 @@ I am building a professional blue-team portfolio for **SOC Analyst**, **Cybersec
 
 - GitHub: [ganeshngl404](https://github.com/ganeshngl404)
 - LinkedIn: [Ganesh Kumar S](https://www.linkedin.com/in/ganesh-kumar-s-a6315a296)
-
